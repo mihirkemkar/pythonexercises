@@ -7,5 +7,4 @@ for i in range(1,51):
         divisible.append(i)
 
 print("The numbers divisible by 2 and 3 : ", divisible)
-i = i + 1
 
